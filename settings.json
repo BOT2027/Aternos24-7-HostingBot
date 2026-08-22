@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
-    "version": "",
+    "ip": "SMP_SnS-lzlr.aternos.me",
+    "port": 32833,
+    "version": "2.2",
     "try-creative": false
   },
   "position": {
